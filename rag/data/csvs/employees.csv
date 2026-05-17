@@ -1,0 +1,11 @@
+emp_id,name,dept,salary,role
+E001,Rajesh Kumar,Engineering,95000,engineer
+E002,Priya Sharma,Finance,88000,finance
+E003,Anita Desai,HR,82000,hr
+E004,Michael Chen,Engineering,105000,engineer
+E005,Sarah Johnson,Finance,92000,finance
+E006,David Park,Engineering,98000,engineer
+E007,Fatima Ali,HR,79000,hr
+E008,James Wilson,Engineering,110000,admin
+E009,Neha Gupta,Finance,85000,finance
+E010,Carlos Rivera,Engineering,91000,intern

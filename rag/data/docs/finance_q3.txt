@@ -1,0 +1,24 @@
+Q3 FY2024 Financial Performance Report — CONFIDENTIAL
+
+Executive Summary
+Total revenue for Q3 FY2024 reached $14.7 million, representing a 12% increase year-over-year and a 4% increase quarter-over-quarter. The company achieved an operating margin of 18.3%, up from 15.9% in Q3 FY2023, driven by improved operational efficiency and higher-margin product mix.
+
+Revenue Breakdown by Department
+- Enterprise Solutions: $6.2 million (42% of total revenue), up 18% YoY. Growth driven by three new enterprise contracts signed in July, including a $1.4 million annual deal with Meridian Corp.
+- Cloud Services: $4.8 million (33% of total revenue), up 9% YoY. Recurring subscription revenue now represents 78% of this segment.
+- Professional Services: $2.5 million (17% of total revenue), flat YoY. Utilization rate improved to 82%.
+- Licensing and Other: $1.2 million (8% of total revenue), down 5% YoY due to ongoing transition from perpetual to subscription licensing.
+
+Key Financial Metrics
+- Gross Profit: $10.1 million (68.7% gross margin)
+- Operating Expenses: $7.4 million (OPEX ratio: 50.3%)
+- EBITDA: $3.8 million (25.9% margin)
+- Net Income: $2.1 million
+- Cash and Equivalents: $9.3 million (up from $7.8 million at end of Q2)
+- Accounts Receivable: $3.2 million, DSO of 42 days
+
+Headcount and Compensation
+Total headcount at end of Q3: 187 employees. New hires in Q3: 14. Attrition: 6 (3.2% quarterly rate). Total compensation expense: $5.1 million, representing 69% of operating expenses.
+
+Outlook
+Q4 pipeline stands at $8.2 million with a weighted close probability of 62%. The company is on track to meet the full-year revenue target of $56 million. Capital expenditure for Q4 is budgeted at $1.1 million, primarily for data center expansion and security infrastructure upgrades.

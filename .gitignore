@@ -1,0 +1,6 @@
+rag/store.faiss
+rag/chunks.pkl
+rag/audit.log
+rag/.env
+__pycache__/
+*.pyc

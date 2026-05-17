@@ -1,0 +1,8 @@
+[
+  {"timestamp": "2024-10-20T09:14:22Z", "user": "rajesh.kumar", "action": "LOGIN", "resource": "main-portal", "ip": "10.0.1.45"},
+  {"timestamp": "2024-10-20T09:30:05Z", "user": "priya.sharma", "action": "EXPORT_DATA", "resource": "finance-dashboard", "ip": "10.0.2.12"},
+  {"timestamp": "2024-10-20T10:02:18Z", "user": "admin_bot", "action": "PERMISSION_CHANGE", "resource": "user:E007", "ip": "10.0.0.1"},
+  {"timestamp": "2024-10-20T11:45:33Z", "user": "michael.chen", "action": "DEPLOY", "resource": "prod-api-v2.4.1", "ip": "10.0.1.87"},
+  {"timestamp": "2024-10-20T14:22:10Z", "user": "sarah.johnson", "action": "ACCESS_DENIED", "resource": "admin-panel", "ip": "10.0.2.34"},
+  {"timestamp": "2024-10-20T16:05:47Z", "user": "admin_bot", "action": "BACKUP_COMPLETE", "resource": "database-primary", "ip": "10.0.0.1"}
+]

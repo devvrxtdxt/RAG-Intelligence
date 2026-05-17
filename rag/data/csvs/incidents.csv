@@ -1,0 +1,9 @@
+id,date,severity,system,description
+INC-001,2024-09-15,high,payment-gateway,Payment processing timeout affecting 12% of transactions during peak hours
+INC-002,2024-09-18,medium,auth-service,Intermittent 401 errors on token refresh for mobile clients
+INC-003,2024-09-22,low,email-service,Delayed delivery of notification emails by up to 15 minutes
+INC-004,2024-10-01,high,database-primary,Primary database failover triggered due to disk I/O saturation
+INC-005,2024-10-05,medium,cdn,Cache invalidation delay causing stale assets served for 45 minutes
+INC-006,2024-10-10,low,monitoring,False positive alerts from CPU threshold monitor on app-03
+INC-007,2024-10-14,high,api-gateway,API gateway memory leak causing cascading 503 errors across all services
+INC-008,2024-10-18,medium,search-service,Elasticsearch index corruption requiring full reindex of product catalog

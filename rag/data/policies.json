@@ -1,0 +1,26 @@
+{
+  "hr_policy.txt": {
+    "sensitivity": "public",
+    "allowed_roles": ["admin", "hr", "engineer", "finance", "intern"]
+  },
+  "eng_runbook.txt": {
+    "sensitivity": "internal",
+    "allowed_roles": ["admin", "engineer"]
+  },
+  "finance_q3.txt": {
+    "sensitivity": "confidential",
+    "allowed_roles": ["admin", "finance"]
+  },
+  "employees.csv": {
+    "sensitivity": "confidential",
+    "allowed_roles": ["admin", "hr"]
+  },
+  "incidents.csv": {
+    "sensitivity": "internal",
+    "allowed_roles": ["admin", "engineer"]
+  },
+  "audit.json": {
+    "sensitivity": "restricted",
+    "allowed_roles": ["admin"]
+  }
+}

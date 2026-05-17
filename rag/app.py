@@ -3,6 +3,8 @@ import json
 import os
 import pickle
 
+from dotenv import load_dotenv
+load_dotenv()
 
 import faiss
 import numpy as np
